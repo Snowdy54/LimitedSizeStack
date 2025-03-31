@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Size stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\ui\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:ui\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\ui\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:ui\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\ui\\tasklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:ui\\tasklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\limitedsizestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:limitedsizestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\listmodel_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:listmodel_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\ui\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:ui\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\limitedsizestack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:limitedsizestack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\listmodel_performancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:listmodel_performancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|c:\\users\\andrey\\desktop\\size stack\\finalizableclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27188BDB-243E-4674-AE11-3ACC731752AC}|LimitedSizeStack.csproj|solutionrelative:finalizableclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\TaskListViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\TaskListViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\TaskListViewModel.cs",
+              "RelativeToolTip": "UI\\TaskListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:39:44.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:49:44.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "UI\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\MainWindow.axaml",
+              "RelativeToolTip": "UI\\MainWindow.axaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-20T12:37:47.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\MainWindow.axaml.cs",
+              "RelativeToolTip": "UI\\MainWindow.axaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:30:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\App.axaml.cs",
+              "RelativeDocumentMoniker": "UI\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\UI\\App.axaml.cs",
+              "RelativeToolTip": "UI\\App.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:30:51.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LimitedSizeStack.csproj",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\LimitedSizeStack.csproj",
+              "RelativeDocumentMoniker": "LimitedSizeStack.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\LimitedSizeStack.csproj",
+              "RelativeToolTip": "LimitedSizeStack.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T12:30:24.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListModel_PerformanceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\ListModel_PerformanceTest.cs",
+              "RelativeDocumentMoniker": "ListModel_PerformanceTest.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\ListModel_PerformanceTest.cs",
+              "RelativeToolTip": "ListModel_PerformanceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:30:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListModel_should.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\ListModel_should.cs",
+              "RelativeDocumentMoniker": "ListModel_should.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\ListModel_should.cs",
+              "RelativeToolTip": "ListModel_should.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:30:22.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinalizableClass.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\FinalizableClass.cs",
+              "RelativeDocumentMoniker": "FinalizableClass.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\FinalizableClass.cs",
+              "RelativeToolTip": "FinalizableClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:30:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\ListModel.cs",
+              "RelativeDocumentMoniker": "ListModel.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\ListModel.cs",
+              "RelativeToolTip": "ListModel.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:29:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LimitedSizeStack.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Size stack\\LimitedSizeStack.cs",
+              "RelativeDocumentMoniker": "LimitedSizeStack.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Size stack\\LimitedSizeStack.cs",
+              "RelativeToolTip": "LimitedSizeStack.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:29:05.477Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
