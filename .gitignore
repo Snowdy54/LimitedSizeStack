@@ -1,0 +1,25 @@
+# Операционные системы
+Thumbs.db
+Desktop.ini
+
+# Системы IDE
+.vs/
+.idea/
+.vscode/
+
+# Файлы сборки
+bin/
+obj/
+
+# Логи
+*.log
+
+# Файлы временного кэша
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Исключить исполняемые файлы
+*.exe
+*.dll
